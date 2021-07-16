@@ -1,4 +1,4 @@
-namespace: apps
+namespace: dev
 resources:
 - configmap.yaml
 - secret-db-creds.yaml
